@@ -23,7 +23,7 @@ phases:
       - echo Post-build phase started on date
 artifacts:
     files:
-      - target/*.war
+      # - target/*.war
     discard-paths: yes 
     
     
